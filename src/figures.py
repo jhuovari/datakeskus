@@ -31,8 +31,10 @@ SERIES = ["var(--series-1, #2a78d6)", "var(--series-2, #eb6834)",
           "var(--series-3, #1baf7a)"]
 NEG = "var(--series-2, #eb6834)"
 
-FONT = ("system-ui, -apple-system, 'Segoe UI', Roboto, "
-        "'Helvetica Neue', Arial, sans-serif")
+# Resolves to the host page's data face when one is defined, so charts inlined
+# into the report share its typography; falls back to system UI standalone.
+FONT = ("var(--chart-font, system-ui, -apple-system, 'Segoe UI', Roboto, "
+        "'Helvetica Neue', Arial, sans-serif)")
 
 
 def _esc(s) -> str:
