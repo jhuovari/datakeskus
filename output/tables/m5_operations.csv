@@ -1,0 +1,11 @@
+Erä,M€ / vuosi,Saaja,% BKT:sta
+"Sähkövero (veroluokka I, 2,325 snt/kWh)",62.11527660000001,valtio,0.022052186783302688
+Kiinteistövero,19.011199999999995,kunnat,0.006749362738484914
+"Yhteisövero, datakeskusyhtiö",22.99000071676716,valtio + kunnat,0.008161917932349865
+"Yhteisövero, hankintaketju",8.785237955409752,valtio + kunnat,0.00311893818932871
+Työnantajan sosiaaliturvamaksut,32.55891639066718,sosiaaliturvarahastot,0.011559077653836413
+Palkansaajien tulovero,55.92725474634447,valtio + kunnat,0.01985531314439546
+Palkansaajien sosiaaliturvamaksut,18.40233948988262,sosiaaliturvarahastot,0.00653320487154747
+ALV kerrannaiskulutuksesta,13.044627920643103,valtio,0.004631108274332421
+Muut tuotantoverot hankintaketjussa,6.263087206528391,valtio + kunnat,0.0022235233662064625
+YHTEENSÄ,239.09794102624267,,0.0848846329537844

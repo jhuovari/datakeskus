@@ -1,0 +1,74 @@
+{
+ "title": "Kokoaikaisten palkansaajien kuukausiansiot sektorin mukaan, vuositiedot muuttujina Sektori, Sukupuoli, Vuosi ja Tiedot",
+ "variables": [
+  {
+   "code": "tyonantajasekt_3_20190528",
+   "text": "Sektori",
+   "values": [
+    "SSS",
+    "11-12",
+    "13",
+    "1311",
+    "13111",
+    "13119",
+    "1313",
+    "13131",
+    "13132",
+    "15"
+   ],
+   "valueTexts": [
+    "Koko kansantalous",
+    "Yritykset sekä rahoitus- ja vakuutuslaitokset",
+    "Julkisyhteisöt",
+    "Valtionhallinto",
+    "Valtion budjettitalous",
+    "Muut valtionhallinnon yksiköt",
+    "Paikallishallinto",
+    "Paikallishallinto pl. hyvinvointialuehallinto",
+    "Hyvinvointialuehallinto",
+    "Kotitalouksia palvelevat voittoa tavoittelemattomat yhteisöt"
+   ],
+   "elimination": true
+  },
+  {
+   "code": "sukupuoli_9_20180101",
+   "text": "Sukupuoli",
+   "values": [
+    "SSS",
+    "1",
+    "2"
+   ],
+   "valueTexts": [
+    "Yhteensä",
+    "Miehet",
+    "Naiset"
+   ],
+   "elimination": true
+  },
+  {
+   "code": "timeperiod_y",
+   "text": "Vuosi",
+   "values": [
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "valueTexts": [
+    "2023",
+    "2024",
+    "2025*"
+   ],
+   "time": true
+  },
+  {
+   "code": "contentscode",
+   "text": "Tiedot",
+   "values": [
+    "Keskiansio"
+   ],
+   "valueTexts": [
+    "Kokoaikaisten palkansaajien kuukausiansiot"
+   ]
+  }
+ ]
+}

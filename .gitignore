@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Derived from the cached PxWeb responses in data/raw by src/fetch_data.py.
+# Committing data/raw keeps the analysis fully reproducible offline while
+# keeping the repository small; rebuild with `python3 src/fetch_data.py`.
+data/processed/

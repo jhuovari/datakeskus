@@ -1,0 +1,428 @@
+================================================================================================
+LÄHESTYMISTAPA 1: PANOS-TUOTOSANALYYSI -- rakentamisvaihe 2027-2028
+================================================================================================
+Skenaario: capex 13,000 M EUR, IT share 68%
+Panos-tuotostaulukko: Tilastokeskus pt/14yn, vuosi 2023, 64 toimialaa
+
+--- Yhteenveto (koko ohjelma, 13 mrd €, kaksi vuotta) ---
+  Ilmoitettu investointi, M€                                    13,000.00
+    josta kotimainen loppukysyntä (perushint.), M€               2,592.56
+    josta suora tuonti, M€                                      10,112.96
+    josta tuoteverot, M€                                           178.00
+    josta maa ja luvat (ei tuotantoa), M€                          116.48
+  Kotimaisuusaste, %                                                19.94
+  Tuotos, Type I, M€                                             4,586.27
+  Tuotos, Type II, M€                                            5,601.12
+  Arvonlisäys, Type I, M€                                        1,845.32
+  Arvonlisäys, Type II, M€                                       2,376.10
+  Arvonlisäys, Type II, M€/vuosi                                 1,188.05
+  BKT-vaikutus, % BKT:sta vuodessa                                   0.42
+  Työllisyys, Type I, htv (koko ohjelma)                        22,363.47
+  Työllisyys, Type II, htv (koko ohjelma)                       27,430.94
+  Työllisyys, Type II, henkeä keskimäärin/vuosi                 13,715.47
+  Tuonti yhteensä (suora + välituote), M€                       10,917.63
+  Kerroin: arvonlisäys / ilmoitettu investointi (Type II)            0.18
+  Kerroin: arvonlisäys / kotimainen kysyntä (Type I)                 0.71
+  Kerroin: tuotos / kotimainen kysyntä (Type I)                      1.77
+  Työllisyys per mrd € investointia, htv (Type II)               2,110.07
+  Työllisyys per mrd € kotimaista kysyntää, htv (Type II)       10,580.63
+
+--- Vaikutusten hajotelma (koko ohjelma) ---
+                                Välitön  Välillinen  Tulokerrannais  Yhteensä
+Tuotos, M€                      2,592.6     1,993.7         1,014.8   5,601.1
+Arvonlisäys, M€                 1,015.0       830.3           530.8   2,376.1
+Palkansaajakorvaukset, M€         673.9       509.2           210.3   1,393.4
+Toimintaylijäämä (netto), M€      218.4       173.5           157.4     549.3
+Kiinteän pääoman kuluminen, M€    122.0       146.7           158.8     427.5
+Työllisyys, henkilötyövuotta   12,178.4    10,185.0         5,067.5  27,430.9
+Tuontivälituotteet, M€            372.2       325.2           107.3     804.7
+
+--- Vaikutus toimialoittain (Type II, koko ohjelma) ---
+                                                                                                                 Toimiala  Suora kysyntä, M€  Tuotos Type I, M€  Tuotos Type II, M€  Arvonlisäys Type II, M€  Työllisyys Type II, htv  Osuus työllisyysvaik., %
+F                                                                                                  F Rakentaminen (41-43)            1,526.0            1,720.7             1,741.9                    629.7                  8,149.6                      29.7
+M71                                                  71 Arkkitehti- ja insinööripalvelut; tekninen testaus ja analysointi              171.7              352.8               358.1                    205.6                  2,712.6                       9.9
+C27                                                                                          27 Sähkölaitteiden valmistus              220.7              274.1               277.6                     89.4                    714.5                       2.6
+C25                                                               25 Metallituotteiden valmistus (pl. koneet ja laitteet)              120.9              252.5               257.7                     90.5                  1,189.7                       4.3
+G46                                                    46 Tukkukauppa (pl. moottoriajoneuvojen ja moottoripyörien kauppa)               49.6              177.8               214.9                    112.8                  1,065.8                       3.9
+J62_J63                                                                                   62, 63 Tietojenkäsittelypalvelu              123.8              171.1               180.9                     92.4                    977.3                       3.6
+C28                                                                            28 Muiden koneiden ja laitteiden valmistus              110.4              170.0               178.5                     62.3                    470.6                       1.7
+L68202                                                                     68202 Asuntojen ja asuinkiinteistöjen hallinta                0.0                0.6               153.7                    128.7                      0.0                       0.0
+L68XL68202                              68 pl. 68202 Kiinteistöalan toiminta pl. asuntojen ja asuinkiinteistöjen hallinta               28.0               66.4               136.6                     87.4                    235.2                       0.9
+M69_M70                                                                                    69, 70 Liikkeenjohdon palvelut               49.0              117.3               132.6                     67.9                    868.0                       3.2
+C33                                                                  33 Koneiden ja laitteiden korjaus, huolto ja asennus               99.3              124.2               127.9                     55.3                    708.3                       2.6
+H52                                                                      52 Varastointi ja liikennettä palveleva toiminta               49.6              115.2               126.6                     43.1                    497.4                       1.8
+H49                                                                                  49 Maaliikenne ja putkijohtokuljetus               24.8               87.5               113.8                     47.7                    771.7                       2.8
+C16         16 Sahatavaran sekä puu- ja korkkituotteiden valmistus (pl. huonekalut); olki- ja punontatuotteiden valmistus                0.0              101.4               107.0                     22.0                    293.9                       1.1
+G47                                                47 Vähittäiskauppa (pl. moottoriajoneuvojen ja moottoripyörien kauppa)                0.0               18.3               100.2                     52.4                    987.5                       3.6
+
+--- Herkkyys: IT-laitteiden osuus investoinnista ---
+                                IT-osuus 55%  IT-osuus 68%  IT-osuus 78%
+Kotimaisuusaste, %                      25.8          19.9          15.5
+Kotimainen kysyntä, M€               3,349.3       2,592.6       2,010.5
+Arvonlisäys Type I, M€               2,380.4       1,845.3       1,433.7
+Arvonlisäys Type II, M€              3,063.0       2,376.1       1,847.7
+Arvonlisäys, M€/vuosi                1,531.5       1,188.1         923.8
+BKT-vaikutus, %/vuosi                    0.5           0.4           0.3
+Työllisyys, htv (koko ohjelma)      35,369.2      27,430.9      21,324.6
+Työllisyys, henkeä/vuosi            17,684.6      13,715.5      10,662.3
+
+--- Googlen julkaisemien lukujen testaus ---
+                                                                     Suure  Google / implikaatio  Tämä analyysi                                               Huomautus
+                                        BKT-vaikutus, M€/vuosi (2027-2028)               3,600.0        1,188.1                                              suhde 0.33
+                                          BKT-vaikutus, % BKT:sta vuodessa                   1.3            0.4                                  BKT 2025 = 281,7 mrd €
+                                                    Työllisyys koko maassa              37,000.0       27,430.9 Google: 'jobs'; tässä: henkilötyövuotta koko ohjelmalta
+                                      Työllisyys koko maassa, henkeä/vuosi              37,000.0       13,715.5                         sama jaettuna kahdelle vuodelle
+                                    Työllisyys rakentamisessa (toimiala F)              16,000.0        8,149.6                            htv koko ohjelmalta, Type II
+Rakentamisen tuotos, jota 16 000 hengen vuosityöllisyys edellyttäisi, M€/v               3,419.8          870.9                     vertailu: mallin tuotos F, M€/vuosi
+   Investointi, jota 37 000 htv edellyttäisi tällä kotimaisuusasteella, M€              17,534.9       13,000.0                                     kotimaisuusaste 20%
+
+================================================================================================
+LÄHESTYMISTAPA 2: KEYNESILÄINEN KYSYNTÄANALYYSI JA TARJONTARAJOITTEET
+================================================================================================
+
+--- 2.1 Rakenteellinen kerroin kansantalouden tilinpidosta ---
+  Palkkojen osuus arvonlisäyksestä                   0.5535
+  Palkoista kotitalouksien nettotuloon               0.6292
+  Keskimääräinen kulutusaste (APC)                   0.8938
+  Kulutuksen kotimaisuusaste                         0.8384
+  Kotimaiseen kysyntään palaava osuus, c_d           0.2610
+  Kerroin k = 1/(1-c_d)                              1.3532
+  Arvonlisäyksen osuus tuotoksesta                   0.4549
+
+--- 2.2 Ristiintarkistus: kerroinmalli vs. panos-tuotos ---
+                                                 Arvonlisäys, M€ (koko ohjelma)  M€ / vuosi  % BKT:sta / vuosi
+Yksinkertainen kerroinmalli (ei panos-tuotosta)                         1,596.0       798.0                0.3
+Panos-tuotos, Type I (suora + välillinen)                               1,845.3       922.7                0.3
+Panos-tuotos, Type II (+ tulokerrannais)                                2,376.1     1,188.1                0.4
+
+--- 2.3 Talouden vapaa kapasiteetti (koko maa) ---
+                                                Arvo
+Työttömyysaste 2019, %                           6.8
+Työttömyysaste 2025, %                           9.7
+Työttömiä 2025, 1000 henkeä                    278.0
+Työttömien lisäys 2019->2025, 1000 henkeä       94.0
+Työllisyysaste 2025 (15-74), %                  62.2
+Rakentamisen työlliset, huippu 2018, 1000      207.7
+Rakentamisen työlliset 2025, 1000              179.4
+Rakentamisen työllisyysvaje huipusta, 1000      28.3
+Rakentamisen työllisyysvaje 2019-tasosta, 1000  24.3
+Rakentamisen osuus työllisistä 2025, %           6.6
+
+--- 2.4 Alueellinen työvoimatilanne 2025 (isäntämaakunnat) ---
+                        Väestö 15-74, 1000  Työvoima, 1000  Työlliset, 1000  Työttömät, 1000  Työttömyysaste, %  Työllisyysaste 15-64, %
+label_alue_23_20180101                                                                                                                  
+MK08 Kymenlaakso                     114.0            70.0             62.0              8.0               10.8                     67.1
+MK17 Pohjois-Pohjanmaa               305.0           208.0            189.0             20.0                9.5                     70.6
+MK18 Kainuu                           51.0            30.0             28.0              NaN                NaN                     69.7
+KOKO MAA                           4,167.0         2,868.0          2,590.0            278.0                9.7                     71.4
+
+--- 2.5 Rakentamisen palkkareaktio (OLS, HAC-keskivirheet) ---
+  Selitettävä: rakentamisen ansiotasoindeksin vuosimuutos miinus koko talouden vuosimuutos, %-p
+  Otos: 2016Q1 - 2025Q4
+
+  [perus]
+  n=40  R2=0.685  HAC lags=4
+  muuttuja                  kerroin   HAC s.e.       t
+  const                      0.2230     0.1046    2.13
+  rakentamisen tuntien kasvu, %     0.0247     0.0131    1.89
+  sopimuspalkkaero, %-p      1.4754     0.1744    8.46
+
+  [tilariippuva]
+  n=40  R2=0.689  HAC lags=4
+  muuttuja                  kerroin   HAC s.e.       t
+  const                      0.2349     0.1114    2.11
+  rakentamisen tuntien kasvu, %     0.0221     0.0163    1.36
+  sopimuspalkkaero, %-p      1.4610     0.1509    9.68
+  kireys (-työttömyysaste, demeanattu)    -0.0618     0.0847   -0.73
+  tunnit x kireys            0.0050     0.0189    0.27
+
+--- 2.6 Syrjäytymisvaikutus ja hintapaine ---
+  Rakentamisen tuotoslisäys, M€/vuosi                             870.949
+  Rakentamisen tuotos 2023, M€                                 41,273.000
+  Aktiviteetin lisäys, % toimialan tuotoksesta                      2.110
+  Estimoitu beta, keskimääräinen suhdanne                           0.025
+  Implikoitu suhteellinen palkkapaine, %-p (keskim.)                0.052
+  Työmarkkinoiden kireys 2025 (poikkeama keskiarvosta, %-p)        -1.587
+  Estimoitu beta vuoden 2025 tilanteessa                            0.014
+  Implikoitu palkkapaine 2025 tilanteessa, %-p                      0.030
+  Rakentamisen työvoimatarve, htv/vuosi (Type II, toimiala F)   4,074.824
+
+ Syrjäytymisaste d  Nettovaikutus arvonlisäykseen, M€  M€ / vuosi  % BKT:sta / vuosi  Työllisyys, htv
+              0.00                           2,376.10    1,188.05               0.42        27,430.94
+              0.15                           2,019.69    1,009.84               0.36        23,316.30
+              0.30                           1,663.27      831.64               0.30        19,201.66
+              0.50                           1,188.05      594.03               0.21        13,715.47
+              0.70                             712.83      356.42               0.13         8,229.28
+
+================================================================================================
+LÄHESTYMISTAPA 3: TARJONTAPUOLI, PÄÄOMAKANTA JA BKT vs. KANSANTULO
+================================================================================================
+
+--- 3.1 Poistoasteet Suomen pääomatilinpidosta (2024) ---
+  N0             δ (netto) = 0.057
+  N1121          δ (netto) = 0.042
+  N1122          δ (netto) = 0.039
+  N113           δ (netto) = 0.134
+  N1132_N1139    δ (netto) = 0.128
+  N117           δ (netto) = 0.275
+
+--- 3.2 Investoinnin varalajijakauma ja poistot ---
+                                      Varalaji  Määrä, M€  Poistoaste δ                              Peruste  Poistot, M€/vuosi
+IT-laitteet (palvelimet, kiihdyttimet, verkko)  8,840.000         0.182                       pitoaika 5.5 v          1,607.273
+ Sähköjärjestelmät (muuntajat, UPS, varavoima)  1,747.200         0.070 koneet ja laitteet, pidempi pitoaika            122.593
+                              Jäähdytys ja LVI    748.800         0.070 koneet ja laitteet, pidempi pitoaika             52.540
+                    Rakennukset ja rakennelmat  1,123.200         0.042             TK: muut talorakennukset             46.977
+                        Suunnittelu, aktivoitu    374.400         0.042             aktivoidaan rakennukseen             15.659
+                           Maa-alueet ja luvat    166.400         0.000                          ei poistoja              0.000
+  Poistot yhteensä: 1,845 M€/vuosi (14.2 % investoinnista)
+
+--- 3.3 Kasvulaskenta: potentiaalisen tuotannon nousu ---
+  Nettopääomakanta 2024, M€                            1,000,181.000
+    josta muu kuin asuinrakennukset, M€                 537,877.000
+  Investointi, M€                                        13,000.000
+  ΔK/K, koko kanta, %                                         1.300
+  ΔK/K, ei-asuinkanta, %                                      2.417
+  Palkkojen osuus arvonlisäyksestä                            0.554
+  Pääoman jousto α (yksinkertainen)                           0.446
+  Pääoman jousto α (sekatulo jaettu)                          0.329
+  Potentiaalisen tuotannon nousu, % (α yksink.)               0.580
+  Potentiaalisen tuotannon nousu, % (α korj.)                 0.428
+    vastaa BKT:ssa, M€                                    1,205.304
+
+--- 3.4 Käyttövaiheen tilinpito (vakaa tila) ---
+  IT-teho, MW                                                294.67
+  Sähkönkulutus, TWh/vuosi                                     2.67
+  Henkilöstö, henkeä                                       1,235.00
+  Mediaanipalkka, €/kk                                     3,615.00
+  Palkkakustannus, M€/vuosi                                   79.72
+  Sähkön osto (energia + siirto), M€/vuosi                   168.31
+  Sähkövero, M€/vuosi                                         62.12
+  Kunnossapito ja muut ostot, M€/vuosi                       124.80
+  Kiinteistövero, M€/vuosi                                    19.01
+  Kiinteän pääoman kuluminen (poistot), M€/vuosi           1,845.04
+  Kustannukset yhteensä, M€/vuosi                          2,299.00
+  Kustannuslisä (markup)                                       0.05
+  Toimintaylijäämä, netto, M€/vuosi                          114.95
+  Tuotos (palvelumaksu konsernille), M€/vuosi              2,413.95
+  Arvonlisäys Suomessa, M€/vuosi                           2,120.84
+    josta poistoja, %                                         87.00
+  Yhteisövero, M€/vuosi                                       22.99
+  Ensitulon vienti ulkomaille, M€/vuosi                       91.96
+  IT-laitteiden korvausinvestointi, M€/vuosi               1,607.27
+
+--- 3.5 BKT -> BKTL -> nettokansantulo ---
+                                            Erä  M€/vuosi  % BKT:sta Kumulatiivinen
+                   Datakeskusyhtiön arvonlisäys  2,120.84       0.75               
+Kotimaisen hankintaketjun arvonlisäys (Type II)    268.29       0.10               
+                                 = BKT-vaikutus  2,389.13       0.85          kyllä
+       ./. ensitulon vienti ulkomaille (voitot)    -91.96      -0.03               
+                          = BKTL-vaikutus (GNI)  2,297.17       0.82          kyllä
+     ./. kiinteän pääoman kuluminen, datakeskus -1,845.04      -0.66               
+  ./. kiinteän pääoman kuluminen, hankintaketju    -66.17      -0.02               
+               = Nettokansantulo-vaikutus (NNI)    385.96       0.14          kyllä
+
+  Hankintaketjun työllisyys, htv/vuosi                      2,463.7
+  Datakeskuksen oma henkilöstö, henkeä                      1,235.0
+  Työllisyys yhteensä, henkeä                               3,698.7
+  Poistojen osuus BKT-vaikutuksesta, %                         77.2
+  NNI-vaikutus / BKT-vaikutus, %                               16.2
+
+--- 3.6 Herkkyys: yksi parametri kerrallaan ---
+  Huomaa: BKT-vaikutus riippuu voimakkaasti poistoaste-oletuksesta,
+  nettokansantulo ei käytännössä lainkaan. Se on tämän analyysin ydinhavainto.
+           Skenaario  Poistot, M€/v  IT-teho, MW  Sähkö, TWh/v  BKT, M€/v  BKTL, M€/v  NNI, M€/v  NNI / BKT, %
+      Perusskenaario       1,845.04       294.67          2.67   2,389.13    2,297.17     385.96         16.15
+   IT-pitoaika 4.0 v       2,447.77       294.67          2.67   3,021.99    2,905.92     391.98         12.97
+   IT-pitoaika 5.5 v       1,845.04       294.67          2.67   2,389.13    2,297.17     385.96         16.15
+   IT-pitoaika 7.0 v       1,500.63       294.67          2.67   2,027.49    1,949.31     382.51         18.87
+    Kustannuslisä 3%       1,845.04       294.67          2.67   2,343.15    2,287.97     376.76         16.08
+    Kustannuslisä 5%       1,845.04       294.67          2.67   2,389.13    2,297.17     385.96         16.15
+   Kustannuslisä 10%       1,845.04       294.67          2.67   2,504.08    2,320.16     408.95         16.33
+   IT-capex 25 M€/MW       1,845.04       353.60          3.21   2,432.81    2,339.01     418.91         17.22
+   IT-capex 30 M€/MW       1,845.04       294.67          2.67   2,389.13    2,297.17     385.96         16.15
+   IT-capex 40 M€/MW       1,845.04       221.00          2.00   2,334.52    2,244.86     344.76         14.77
+ Henkilöstö 60/mrd €       1,845.04       294.67          2.67   2,358.29    2,267.50     356.29         15.11
+ Henkilöstö 95/mrd €       1,845.04       294.67          2.67   2,389.13    2,297.17     385.96         16.15
+Henkilöstö 130/mrd €       1,845.04       294.67          2.67   2,419.96    2,326.83     415.62         17.17
+        IT-osuus 55%       1,634.36       238.33          2.16   2,186.97    2,102.86     401.99         18.38
+        IT-osuus 68%       1,845.04       294.67          2.67   2,389.13    2,297.17     385.96         16.15
+        IT-osuus 78%       2,007.10       338.00          3.06   2,544.63    2,446.63     373.62         14.68
+
+================================================================================================
+LÄHESTYMISTAPA 4: SÄHKÖMARKKINAT
+================================================================================================
+
+--- 4.1 Suomen sähkötase 2024 (Tilastokeskus) ---
+  Sähkön kokonaiskulutus 2024, GWh                       83,053
+  Kotimainen tuotanto, GWh                               79,872
+  Nettotuonti, GWh                                        3,181
+  Tuulivoima, GWh                                        20,237
+  Ydinvoima, GWh                                         31,128
+  Teollisuus ja rakentaminen, GWh                        34,742
+  Palvelut ja julkinen kulutus, GWh                      21,628
+  Kotitaloudet ja maatalous, GWh                         23,633
+
+--- 4.2 Sähkön hinta (Tilastokeskus, keskiarvo 2024M01-2026M03) ---
+  I: energia, snt/kWh                                  5.57
+  I: verkko, snt/kWh                                   1.97
+  I: kokonais, snt/kWh                                 7.61
+  J: energia, snt/kWh                                  4.58
+  J: verkko, snt/kWh                                   0.89
+  J: kokonais, snt/kWh                                 5.54
+  K: energia, snt/kWh                                  4.40
+  K: verkko, snt/kWh                                   0.84
+  K: kokonais, snt/kWh                                 5.30
+
+--- 4.3 Kysyntä vs. sopimuksin hankittu tarjonta ---
+  Datakeskusten sähkönkulutus, TWh/vuosi                           2.67
+    keskiteho, MW                                                304.98
+    osuus Suomen kulutuksesta 2024, %                              3.22
+  Uusi sopimustuulivoima, MW                                     629.00
+    tuotanto, TWh/vuosi (CF 0.36)                                  1.98
+  Loviisan PPA-osuus, TWh/vuosi                                    4.11
+    (huom: olemassa olevaa kapasiteettia, ei uutta)        
+  Vuositason jäännöskysyntä (kulutus - uusi tuuli), TWh            0.69
+  Tuulen tuotanto heikkotuulisina tunteina, MW                    44.03
+  Jäännöskysyntä heikkotuulisina tunteina, MW                    260.95
+    osuus datakeskusten kuormasta, %                              85.56
+  Akku, MW                                                        94.00
+    akun kesto täydellä teholla, h (2h-järjestelmä)                2.00
+    akun kattama osuus kuormasta, %                               30.82
+
+--- 4.4 Hintavaikutus ja sen jakautuminen ---
+  Sähkön kokonaiskulutus, TWh                                   83.05
+  Sähköenergian hinta (yritysasiakas I, 2024-2026), €/MWh       55.71
+
+                         Skenaario  Tarjonnan jousto ε_S  ΔD, TWh  Hintamuutos, %  Hintamuutos, €/MWh  Siirto kuluttajilta tuottajille, M€/vuosi  Hyvinvointitappio (arvio), M€/vuosi
+ Vuositaso, uusi tuulivoima mukana                  0.30     0.69            2.76                1.54                                     127.76                                 0.53
+ Vuositaso, uusi tuulivoima mukana                  0.50     0.69            1.66                0.92                                      76.65                                 0.32
+ Vuositaso, uusi tuulivoima mukana                  1.00     0.69            0.83                0.46                                      38.33                                 0.16
+Vuositaso, ilman uutta tuulivoimaa                  0.30     2.67           10.72                5.97                                     496.09                                 7.98
+Vuositaso, ilman uutta tuulivoimaa                  0.50     2.67            6.43                3.58                                     297.65                                 4.79
+Vuositaso, ilman uutta tuulivoimaa                  1.00     2.67            3.22                1.79                                     148.83                                 2.39
+
+--- 4.5 Hukkalämmön talteenotto ---
+  Hukkalämpöä teoriassa saatavilla, TWh/vuosi            2.54
+  Suomen kaukolämmön kulutus, TWh/vuosi (n.)            33.00
+  Talteenotto 5%: TWh                                    0.13
+  Talteenotto 5%: arvo kaukolämpönä, M€/vuosi           10.79
+  Talteenotto 15%: TWh                                   0.38
+  Talteenotto 15%: arvo kaukolämpönä, M€/vuosi          32.36
+  Talteenotto 30%: TWh                                   0.76
+  Talteenotto 30%: arvo kaukolämpönä, M€/vuosi          64.72
+
+================================================================================================
+LÄHESTYMISTAPA 5: JULKINEN TALOUS
+================================================================================================
+
+--- 5.1 Efektiiviset veroasteet kansantalouden tilinpidosta (2024) ---
+  Työnantajan sosiaaliturvamaksut / työvoimakustannus        0.1609
+  Kotitalouksien tulovero / palkat                           0.3294
+  Kotitalouksien sosiaaliturvamaksut / palkat                0.1084
+  Työn kokonaisveroaste (kiila)                              0.5282
+  ALV / kotitalouksien kulutusmenot                          0.1891
+  Yhteisöverokanta (lakisääteinen)                           0.2000
+  Kokonaisveroaste, % BKT:sta                               42.1501
+  Paikallishallinnon osuus veroista, %                      12.0234
+  Valtionhallinnon osuus veroista, %                        60.0586
+  Kiinteistövero koko maassa, M€                         2,258.0000
+  Yhteisövero koko maassa, M€                            7,081.0000
+  Energiaverot koko maassa, M€                           4,024.0000
+
+--- 5.2 Rakennusvaihe 2027-2028 ---
+                                                Erä  M€ (koko ohjelma)                          Saaja  M€ / vuosi
+              Tuoteverot investoinnista (ALV, muut)             178.00                         valtio       89.00
+                    Työnantajan sosiaaliturvamaksut             224.19          sosiaaliturvarahastot      112.09
+                             Palkansaajien tulovero             385.09                valtio + kunnat      192.55
+                  Palkansaajien sosiaaliturvamaksut             126.71          sosiaaliturvarahastot       63.36
+                         ALV kerrannaiskulutuksesta             148.20                         valtio       74.10
+                       Yhteisövero hankintaketjussa              65.92                valtio + kunnat       32.96
+                                 Muut tuotantoverot               5.89                valtio + kunnat        2.94
+Työttömyysmenojen säästö (50% tulee työttömyydestä)             260.59 valtio + sosiaaliturvarahastot      130.30
+                                           YHTEENSÄ           1,394.59                                     697.30
+
+--- 5.3 Käyttövaihe, vuositasolla ---
+                                    Erä  M€ / vuosi                 Saaja  % BKT:sta
+Sähkövero (veroluokka I, 2,325 snt/kWh)       62.12                valtio       0.02
+                         Kiinteistövero       19.01                kunnat       0.01
+           Yhteisövero, datakeskusyhtiö       22.99       valtio + kunnat       0.01
+             Yhteisövero, hankintaketju        8.79       valtio + kunnat       0.00
+        Työnantajan sosiaaliturvamaksut       32.56 sosiaaliturvarahastot       0.01
+                 Palkansaajien tulovero       55.93       valtio + kunnat       0.02
+      Palkansaajien sosiaaliturvamaksut       18.40 sosiaaliturvarahastot       0.01
+             ALV kerrannaiskulutuksesta       13.04                valtio       0.00
+    Muut tuotantoverot hankintaketjussa        6.26       valtio + kunnat       0.00
+                               YHTEENSÄ      239.10                             0.08
+
+--- 5.4 Sähköveroluokan muutos 1.7.2026 ---
+                             Veroluokka  snt/kWh  Verotuotto, M€/vuosi
+Veroluokka II (voimassa 30.6.2026 asti)     0.14                  3.61
+Veroluokka I (voimassa 1.7.2026 alkaen)     2.33                 62.12
+               Muutoksen arvo valtiolle      NaN                 58.51
+
+--- 5.5 Toimialan julkisten väitteiden vertailu ---
+                                   Suure  Toimialan väite (skaalattu)  Tämä analyysi                                           Huomautus
+Rakennusvaiheen verot, M€ (koko ohjelma)                     1,841.67       1,394.59   toimialan väite skaalattu 1.08x (13 mrd / 12 mrd)
+           Käyttövaiheen verot, M€/vuosi                       433.33         239.10 toimialan väite koskee kaikkia Suomen datakeskuksia
+
+--- 5.6 Herkkyys: kuinka suuri osa työvoimasta tulee työttömyydestä ---
+ Työttömyydestä tuleva osuus  Verotuotto + säästöt, M€
+                        0.00                  1,134.00
+                        0.25                  1,264.30
+                        0.50                  1,394.59
+                        0.75                  1,524.89
+
+================================================================================================
+YHTEENVETO: KAIKKI LÄHESTYMISTAVAT SAMALLA AKSELILLA
+================================================================================================
+
+--- Y.1 Päätulokset ---
+        Vaihe                                       Suure  M€ yhteensä  M€ / vuosi  % BKT:sta / vuosi
+Rakennusvaihe                      Ilmoitettu investointi     13,000.0     6,500.0                2.3
+Rakennusvaihe                     Kotimainen loppukysyntä      2,592.6     1,296.3                0.5
+Rakennusvaihe                         Arvonlisäys, Type I      1,845.3       922.7                0.3
+Rakennusvaihe                        Arvonlisäys, Type II      2,376.1     1,188.1                0.4
+Rakennusvaihe Tuulivoima- ja akkuinvestoinnit (erillinen)        229.7       114.8                0.0
+  Käyttövaihe                                BKT-vaikutus          NaN     2,389.1                0.8
+  Käyttövaihe                               BKTL-vaikutus          NaN     2,297.2                0.8
+  Käyttövaihe                    Nettokansantulo-vaikutus          NaN       386.0                0.1
+  Käyttövaihe     Potentiaalinen tuotanto (kasvulaskenta)          NaN     1,205.3                0.4
+
+--- Y.2 Työllisyys ---
+                                         Erä    Määrä             Yksikkö
+                      Rakennusvaihe, välitön 12,178.4 htv koko ohjelmalta
+Rakennusvaihe, Type I (välitön + välillinen) 22,363.5 htv koko ohjelmalta
+   Rakennusvaihe, Type II (+ tulokerrannais) 27,430.9 htv koko ohjelmalta
+         Rakennusvaihe, keskimäärin vuodessa 13,715.5 henkeä 2027 ja 2028
+   Käyttövaihe, datakeskusten oma henkilöstö  1,235.0      henkeä, pysyvä
+        Käyttövaihe, hankintaketju (Type II)  2,463.7   htv/vuosi, pysyvä
+                       Käyttövaihe, yhteensä  3,698.7      henkeä, pysyvä
+
+--- Y.3 Julkiset väitteet vs. tämä analyysi ---
+                                   Suure               Lähde  Julkinen väite  Tämä analyysi  Suhde
+BKT-vaikutus rakennusvaiheessa, M€/vuosi              Google        3,600.00       1,188.05   0.33
+            Työllisyys rakennusvaiheessa              Google       37,000.00      27,430.94   0.74
+                    josta rakentamisessa              Google       16,000.00       8,149.65   0.51
+Työllisyys käyttövaiheessa, henkeä/vuosi              Google        7,000.00       3,698.67   0.53
+          Rakennusvaiheen verotuotto, M€ FDCA/EK (skaalattu)        1,841.70       1,394.59   0.76
+      Käyttövaiheen verotuotto, M€/vuosi FDCA/EK (skaalattu)          433.30         239.10   0.55
+
+--- Y.4 Vaihteluväli ja sitä ajavat oletukset ---
+IT-laitteiden osuus  Syrjäytymisaste  Kotimaisuusaste, %  Arvonlisäys, M€/vuosi  % BKT:sta  Työllisyys, htv
+                55%              0.0                25.8                1,531.5        0.5         35,369.2
+                55%              0.3                25.8                1,072.1        0.4         24,758.4
+                68%              0.0                19.9                1,188.1        0.4         27,430.9
+                68%              0.3                19.9                  831.6        0.3         19,201.7
+                78%              0.0                15.5                  923.8        0.3         21,324.6
+                78%              0.3                15.5                  646.7        0.2         14,927.2
+
+  Rakennusvaiheen BKT-vaikutus: 647 - 1,532 M€/vuosi (0.23 - 0.54 % BKT:sta)
+
+kirjoitettu output/figures/fig1_vuoto.svg
+kirjoitettu output/figures/fig2_bkt_kansantulo.svg
+kirjoitettu output/figures/fig3_vaitteet_raha.svg
+kirjoitettu output/figures/fig4_vaitteet_tyollisyys.svg
+kirjoitettu output/figures/fig5_toimialat.svg
+kirjoitettu output/figures/fig6_robustisuus.svg
+kirjoitettu output/figures/fig7_rakentamisen_vaje.svg
+kirjoitettu output/figures/fig8_sahko.svg

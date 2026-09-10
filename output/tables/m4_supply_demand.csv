@@ -1,0 +1,15 @@
+,0
+"Datakeskusten sähkönkulutus, TWh/vuosi",2.6716248000000005
+"  keskiteho, MW",304.98
+"  osuus Suomen kulutuksesta 2024, %",3.2167709775685416
+"Uusi sopimustuulivoima, MW",629.0
+"  tuotanto, TWh/vuosi (CF 0.36)",1.9836144
+"Loviisan PPA-osuus, TWh/vuosi",4.1101920000000005
+"  (huom: olemassa olevaa kapasiteettia, ei uutta)",
+"Vuositason jäännöskysyntä (kulutus - uusi tuuli), TWh",0.6880104000000005
+"Tuulen tuotanto heikkotuulisina tunteina, MW",44.03
+"Jäännöskysyntä heikkotuulisina tunteina, MW",260.95000000000005
+"  osuus datakeskusten kuormasta, %",85.56298773690078
+"Akku, MW",94.0
+"  akun kesto täydellä teholla, h (2h-järjestelmä)",2.0
+"  akun kattama osuus kuormasta, %",30.821693225785296

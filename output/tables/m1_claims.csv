@@ -1,0 +1,8 @@
+Suure,Google / implikaatio,Tämä analyysi,Huomautus
+"BKT-vaikutus, M€/vuosi (2027-2028)",3600.0,1188.0515272282064,suhde 0.33
+"BKT-vaikutus, % BKT:sta vuodessa",1.278073233596285,0.42178246030098854,"BKT 2025 = 281,7 mrd €"
+Työllisyys koko maassa,37000.0,27430.935887607142,Google: 'jobs'; tässä: henkilötyövuotta koko ohjelmalta
+"Työllisyys koko maassa, henkeä/vuosi",37000.0,13715.467943803571,sama jaettuna kahdelle vuodelle
+Työllisyys rakentamisessa (toimiala F),16000.0,8149.648304242801,"htv koko ohjelmalta, Type II"
+"Rakentamisen tuotos, jota 16 000 hengen vuosityöllisyys edellyttäisi, M€/v",3419.82392542724,870.9488204583457,"vertailu: mallin tuotos F, M€/vuosi"
+"Investointi, jota 37 000 htv edellyttäisi tällä kotimaisuusasteella, M€",17534.946746651396,12999.999999999998,kotimaisuusaste 20%
